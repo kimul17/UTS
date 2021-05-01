@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>UTS_WEB2</title>
+	<style type="text/css">
+		h1 {width: 500px; margin: auto; text-align: center;}
+		table {width: 500px; margin: auto;}
+		h2 {width: 500px; margin: auto; text-align: center;}
+		table {width: 500px; margin: auto;}
+		h3 {width: 500px; margin: auto; text-align: center;
+			margin-bottom: 10px}
+		table {width: 500px; margin: auto;}
+	</style>
+</head>
+<body>
+	<h1>Data Pemantauan Covid-19 Wilayah DKI Jakarta</h1>
+	<h2>Per 28 April 2021 14:08:16 (Waktu dan Jam Sekarang</h2>
+	<h3>Ahmad Mulyadi / 161021450504</h3>
+	<table border="1">
+		<tr>
+			<th>Positif</th>
+			<th>Dirawat</th>
+			<th>Sembuh</th>
+			<th>Meninggal</th>
+		</tr>
+		<tr>
+			<th>406.205</th>
+			<th>3.322</th>
+			<th>393.205</th>
+			<th>6.679</th>
+		</tr>
+	</table>
+
+</body>
+</html>
